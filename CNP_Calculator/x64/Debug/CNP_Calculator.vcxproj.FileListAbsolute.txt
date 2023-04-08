@@ -1,0 +1,5 @@
+C:\_work\student_work\poo02\CNP_Calculator\x64\Debug\CNP_Calculator.vcxproj.AssemblyReference.cache
+C:\_work\student_work\poo02\CNP_Calculator\x64\Debug\CNP_Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\_work\student_work\poo02\CNP_Calculator\x64\Debug\CNP_Calculator.Form1.resources
+C:\_work\student_work\poo02\CNP_Calculator\x64\Debug\CNP_Calculator.vcxproj.GenerateResource.cache
+C:\_work\student_work\poo02\CNP_Calculator\x64\Debug\CNP_Calculator.exe
