@@ -1,0 +1,2 @@
+C:\_work\UVABc Informatik\POO\Poo_C++\proj_vsc\Animals\Animals\x64\Debug\Animals.vcxproj.AssemblyReference.cache
+C:\_work\UVABc Informatik\POO\Poo_C++\proj_vsc\Animals\Animals\x64\Debug\Animals.vcxproj.SuggestedBindingRedirects.cache
