@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  try_catch_clr.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  try_catch_clr.vcxproj -> C:\_work\UVABc Informatik\POO\Poo_C++\proj_vsc\try_catch_clr\x64\Debug\try_catch_clr.exe

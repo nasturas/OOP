@@ -1,0 +1,2 @@
+C:\_work\UVABc Informatik\POO\Poo_C++\proj_vsc\try_catch_clr\try_catch_clr\x64\Debug\try_catch_clr.vcxproj.AssemblyReference.cache
+C:\_work\UVABc Informatik\POO\Poo_C++\proj_vsc\try_catch_clr\try_catch_clr\x64\Debug\try_catch_clr.vcxproj.SuggestedBindingRedirects.cache
