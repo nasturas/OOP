@@ -1,0 +1,2 @@
+C:\_work\UVABc Informatik\POO\Poo_C++\proj_vsc\ConsoleApplication2\ConsoleApplication2\x64\Debug\ConsoleApplication2.vcxproj.AssemblyReference.cache
+C:\_work\UVABc Informatik\POO\Poo_C++\proj_vsc\ConsoleApplication2\ConsoleApplication2\x64\Debug\ConsoleApplication2.vcxproj.SuggestedBindingRedirects.cache
