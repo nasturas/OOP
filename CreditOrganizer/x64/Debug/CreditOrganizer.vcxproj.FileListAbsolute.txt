@@ -1,0 +1,3 @@
+C:\_work\student_work\poo02\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.AssemblyReference.cache
+C:\_work\student_work\poo02\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.SuggestedBindingRedirects.cache
+C:\_work\student_work\poo02\CreditOrganizer\x64\Debug\CreditOrganizer.exe
