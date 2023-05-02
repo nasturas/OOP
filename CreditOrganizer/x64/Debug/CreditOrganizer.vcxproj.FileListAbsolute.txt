@@ -1,3 +1,6 @@
 C:\_work\student_work\poo02\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.AssemblyReference.cache
 C:\_work\student_work\poo02\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.SuggestedBindingRedirects.cache
 C:\_work\student_work\poo02\CreditOrganizer\x64\Debug\CreditOrganizer.exe
+C:\_work\UVABc Informatik\POO\Poo_C++\proj_vsc\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.AssemblyReference.cache
+C:\_work\UVABc Informatik\POO\Poo_C++\proj_vsc\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.SuggestedBindingRedirects.cache
+C:\_work\UVABc Informatik\POO\Poo_C++\proj_vsc\CreditOrganizer\x64\Debug\CreditOrganizer.exe

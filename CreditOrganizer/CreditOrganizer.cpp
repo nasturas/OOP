@@ -13,7 +13,8 @@ int main(array<System::String ^> ^args)
     Console::Write("Card name is ");
     Console::WriteLine(static_cast<String^>(CreditCardAccount::name));
 
-    Console::WriteLine("\nCreating first object");
+    Console::WriteLine("Creating account object");
+    //Console::WriteLine("\nCreating first object");
     CreditCardAccount^ account1;
     account1 = gcnew CreditCardAccount(12345, 2000);
 
@@ -27,7 +28,15 @@ int main(array<System::String ^> ^args)
     Console::Write("Account number: ");
     Console::WriteLine(num);
 
+    Console::WriteLine("\nMaking a purchase (300)");
     account1->MakePurchase(300);
+    Console::WriteLine("\nMaking a purchase (700)"); 
+    account1->MakePurchase(700);
+    Console::WriteLine("\nMaking a purchase (500)");
+    account1->MakePurchase(500);
+    Console::WriteLine("\nRedeeming points");
+    account1->RedeemLoyaltyPoints();
+
     account1->PrintStatement();
     Console::WriteLine("\nCreating second object");
     CreditCardAccount ^account2;
